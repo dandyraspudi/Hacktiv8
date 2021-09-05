@@ -1,0 +1,20 @@
+[
+    {
+        "name": "dandy",
+        "email": "dandy@mail.com",
+        "password": "abc",
+        "role": "admin"
+    },
+    {
+        "name": "raspudi",
+        "email": "raspudi@mail.com",
+        "password": "123",
+        "role": "staff"
+    },
+    {
+        "name": "users",
+        "email": "users@mail.com",
+        "password": "user",
+        "role": "staff"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "astra",
+        "companyLogo": "https://cdn.pixabay.com/photo/2019/07/16/18/18/frontend-4342425__480.png",
+        "location": "jakarta",
+        "email": "astra@mail.com",
+        "description": "astra oto parts"
+    },
+    {
+        "name": "honda mobil",
+        "companyLogo": "https://cdn.pixabay.com/photo/2019/07/16/18/18/frontend-4342425__480.png",
+        "location": "jakarta",
+        "email": "hm@mail.com",
+        "description": "honda mobil indo"
+    },
+    {
+        "name": "bmw indonesia",
+        "companyLogo": "https://cdn.pixabay.com/photo/2019/07/16/18/18/frontend-4342425__480.png",
+        "location": "jakarta",
+        "email": "bmw@mail.com",
+        "description": "bmw indo mobil"
+    }
+]
